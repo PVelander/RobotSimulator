@@ -11,6 +11,8 @@
 Four .txt files are included in package. Representing Example A,B,C from instructions, and own file used in testing purpose. <br />
 To run the command file for Example A, use `npm start -- example-A.txt`.
 
+4. **Packaged**
+For simplicity I have packaged necessary files in .zip. See: RobotSimulator.zip
 
 ---
 
